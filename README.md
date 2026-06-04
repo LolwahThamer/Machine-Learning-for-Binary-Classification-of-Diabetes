@@ -30,7 +30,7 @@ PIMA Indian Diabetes Dataset (binary outcome: diabetic / non‑diabetic).
 - IQR outlier removal  
   ![IQR method](iqr_method.png)
 - RandomOverSampler + 80/20 train‑test split  
-  ![Data split](data_split.png)
+  ![Data split](data_split.jpg)
 
 ## Models & Confusion Matrices
 
