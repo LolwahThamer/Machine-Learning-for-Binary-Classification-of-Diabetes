@@ -84,6 +84,27 @@ The **Extra Trees** curve is closest to the top‑left corner, with an AUC of 0.
 
 ## References
 
-- scikit‑learn documentation (Random Forest, Extra Trees, Bagging)
-- Evidently AI – Precision/Recall guide
-- Bhandari, P. – Interquartile Range (Scribbr)
+[1] IBM. (2021, October 20). Random Forest. Ibm.com. https://www.ibm.com/think/topics/random-forest
+
+[2] abbas-taher. (2020). decision-tree-algorithm-example/README.md at master · abbas-taher/decision-tree-algorithm-example. GitHub. https://github.com/abbas-taher/decision-tree-algorithm-example/blob/master/README.md
+
+[3] 3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier — scikit-learn 0.22.2 documentation. (n.d.). Scikit-Learn.org. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+
+[4] sklearn.ensemble.BaggingClassifier — scikit-learn 0.23.1 documentation. (n.d.). Scikit-Learn.org. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html
+
+[5] Deepchecks Community Blog. (2024, June 13). Understanding F1 Score, Accuracy, ROC-AUC & PR-AUC Metrics. Deepchecks. https://www.deepchecks.com/f1-score-accuracy-roc-auc-and-pr-auc-metrics-for-models/
+
+‌[6] Evidently AI Team. (2024, October 1). Accuracy vs. precision vs. recall in machine learning: what’s the difference? Www.evidentlyai.com. https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall
+
+[7] Ebner, J. (2023, December 5). F1 Score, Explained - Sharp Sight. Sharp Sight. https://www.sharpsightlabs.com/blog/f1-score-explained/
+
+[8] Bhandari, P. (2020, September 25). Interquartile Range | Understand, Calculate & Visualize IQR. Scribbr. https://www.scribbr.com/statistics/interquartile-range/
+
+[9] Prasad Mahamulkar. (2023, December 17). Feature Scaling Using Standardization, Normalization and Robust Scaling. Medium. https://medium.com/@prasadmahamulkar/feature-scaling-using-standardization-normalization-and-robust-scaling-cb333f943f70
+
+[10] Tripathi, H. (2020, October 5). Different Type of Feature Engineering Encoding Techniques for Categorical Variable Encoding. Medium. https://medium.com/analytics-vidhya/different-type-of-feature-engineering-encoding-techniques-for-categorical-variable-encoding-214363a016fb
+
+[11] Galarnyk, M. (2022, July 28). Train Test Split: What it Means and How to Use It | Built In. Builtin.com. https://builtin.com/data-science/train-test-split
+
+[12] Sarang Narkhede. (2018, May 9). Understanding Confusion Matrix - TDS Archive - Medium. Medium; TDS Archive. https://medium.com/data-science/understanding-confusion-matrix-a9ad42dcfd62
+
