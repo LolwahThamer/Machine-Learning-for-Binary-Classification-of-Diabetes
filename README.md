@@ -50,10 +50,10 @@ PIMA Indian Diabetes Dataset (binary outcome: diabetic / non‑diabetic).
 | Bagging          |  0.9080    |   0.9136    |  0.8916  |  0.9024    | 0.9584   |
 | Decision Tree    |  0.8218    |   0.9755    |  0.8434  |  0.8187    | 0.8849   |
 
-![Comparison chart](images/perf_comparison.png)
+![Comparison chart](perf_comparison.png)
 
 ### ROC Curves
-![ROC curves](images/roc_curves.png)
+![ROC curves](roc_curves.png)
 
 ## Conclusion
 
